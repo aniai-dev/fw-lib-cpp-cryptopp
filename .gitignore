@@ -7,3 +7,5 @@
 *.swp
 *.out
 *.exe
+*.gz
+*.tar
