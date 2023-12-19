@@ -1,0 +1,9 @@
+# Local items
+*.o
+*.a
+*.dll
+*.so
+*.dylib
+*.swp
+*.out
+*.exe
